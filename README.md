@@ -3,7 +3,7 @@ This is a web scraper that extracts the title, location, business, salary, numbe
 
 To run this scraper, you must have:
 
-Python 3
-Scrapy (just do pip install scrapy in your command prompt after installing Python)
+-Python 3
+-Scrapy (just do pip install scrapy in your command prompt after installing Python)
 
 Simply clone my repository in your personal computer, then use the command prompt to get to this directory. Then, run scrapy crawl recursion -o canada_jobs.csv in your command prompt. This exports a csv file with the aforementioned data. Enjoy!
